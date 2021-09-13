@@ -1,10 +1,8 @@
 # Data analysis
 - Document here the project: Coach_AI
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
+- Description: 2 week project during "le Wagon data science bootcamp": web-app for personalized physical exercise recognition, counting and feedback.  
+- Data Source: UCF 101 Dataset
+- Type of analysis: Machine Learning (SVC) 
 
 # Startup the project
 
@@ -17,10 +15,6 @@ deactivate; virtualenv ~/venv ; source ~/venv/bin/activate ;\
     pip install pip -U; pip install -r requirements.txt
 ```
 
-Unittest test:
-```bash
-make clean install test
-```
 
 Check for Coach_AI in gitlab.com/{group}.
 If your project is not set please add it:
@@ -35,14 +29,6 @@ git push -u origin master
 git push -u origin --tags
 ```
 
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-Coach_AI-run
-```
 
 # Install
 
