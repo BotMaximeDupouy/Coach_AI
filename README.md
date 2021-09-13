@@ -22,13 +22,4 @@ Clone the project and install it:
 git clone git@github.com:{group}/Coach_AI.git
 cd Coach_AI
 pip install -r requirements.txt
-make clean install test                # install and test
-```
-Functionnal test with a script:
-
-```bash
-cd
-mkdir tmp
-cd tmp
-Coach_AI-run
-```
+make clean install
