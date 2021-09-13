@@ -3,6 +3,7 @@
 - Description: 2 week project during "le Wagon data science bootcamp": web-app for personalized physical exercise recognition, counting and feedback.  
 - Data Source: UCF 101 Dataset
 - Type of analysis: Machine Learning (SVC) 
+- Deployed web-app : https://share.streamlit.io/sebrod93/coachaiwebsite/app.py
 
 # Install
 
